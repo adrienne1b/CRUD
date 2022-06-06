@@ -4,12 +4,12 @@
 
 Este projeto integrador se destina ao trabalho de conclusão de curso :
 
-Ao selecionar a Cadastrar:
+Ao selecionar o botão Cadastrar:
 
 Insira as informações do cliente sem deixar campos em branco e clique em cadastrar para que essas informações fiquem salvas.
 
 
-Ao selecionar a Consultar :
+Ao selecionar o botão Consultar :
 
 É possível consultar os clientes cadastrados, atualizar as informações inseridas e excluir caso venha ser necessário.:
 
